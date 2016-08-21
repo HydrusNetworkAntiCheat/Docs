@@ -1,5 +1,5 @@
 ## Compatibility
-HydrusAntiCHeat features a range of compatibility features.
+HydrusAntiCheat features a range of compatibility features.
 * Compatibility with multiple versions of Minecraft. You can rely on the latest version of HydrusAntiCheat still running on a range of past versions of Minecraft.
 * Configuration allows working around issues with specific blocks (custom mods, early adopter).
 * A range of API features to allow developers to make their plugins compatible (exemption API, exemption by meta data, hooks for violation processing, other).
